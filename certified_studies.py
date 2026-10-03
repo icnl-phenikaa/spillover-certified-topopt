@@ -26,7 +26,7 @@ from scipy.optimize import minimize
 ct = base.ct
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data"
-FIG = ROOT.parent / "figures"
+FIG = ROOT / "figures"
 
 
 def sym(a):

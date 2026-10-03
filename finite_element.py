@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import scipy.linalg as la
 ROOT = Path(__file__).resolve().parent
-FIG_DIR = ROOT.parent / 'figures'
+FIG_DIR = ROOT / 'figures'
 DATA_DIR = ROOT / 'data'
 FIG_DIR.mkdir(exist_ok=True)
 DATA_DIR.mkdir(exist_ok=True)
