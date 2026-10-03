@@ -1,0 +1,9 @@
+numpy==2.2.6
+scipy==1.16.3
+sympy==1.13.3
+matplotlib==3.10.6
+pandas==2.3.2
+control==0.10.2
+slycot==0.7.0
+cvxpy==1.7.5
+Mosek==11.1.2
